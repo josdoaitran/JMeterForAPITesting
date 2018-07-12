@@ -5,7 +5,7 @@ Download: https://jmeter.apache.org/download_jmeter.cgi
 
 API Testing:
 
-*Make a sample request*
+* Make a sample request
 
 We will add a Thread Group to a test plan on our JMeter script.
 ```
@@ -16,7 +16,7 @@ Add a sample http request
 Thread Group >> Add >> Sampler >> HTTP Request
 ```
 
-*HTTP Request Defaults*
+* HTTP Request Defaults
 
 
 http://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf
