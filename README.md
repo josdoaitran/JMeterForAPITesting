@@ -10,3 +10,5 @@ API Testing:
 
 *HTTP Request Defaults*
 
+
+http://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf
