@@ -3,7 +3,7 @@ JMeterForAPITesting
 
 Download: https://jmeter.apache.org/download_jmeter.cgi
 
-# API Testing:
+## API Testing
 
 API Types:
 + REST API
