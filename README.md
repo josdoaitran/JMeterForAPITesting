@@ -12,7 +12,7 @@ Request method: GET, POST, PUT, DELETE
 
 ## Basic JMeter
 
-* Make a sample request
+### 1. Make a sample request
 
 We will add a Thread Group to a test plan on our JMeter script.
 ```
@@ -23,14 +23,14 @@ Add a sample http request
 Thread Group >> Add >> Sampler >> HTTP Request
 ```
 
-* HTTP Request Defaults
+### 2. HTTP Request Defaults
 
 ```
 Thread Group >> Add >> Config Element >> HTTP Request Defaults
 Input: Webserver with Protocol and Server Name
 ```
 
-* HTTP Header Manager
+### 3. HTTP Header Manager
 
 ```
 Thread Group >> Add >> Config Element >> HTTP Header Manager
