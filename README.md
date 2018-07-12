@@ -30,4 +30,12 @@ Thread Group >> Add >> Config Element >> HTTP Request Defaults
 Input: Webserver with Protocol and Server Name
 ```
 
+* HTTP Header Manager
+
+```
+Thread Group >> Add >> Config Element >> HTTP Header Manager
+```
+
+# References
+
 http://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf
