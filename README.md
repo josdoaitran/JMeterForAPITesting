@@ -25,5 +25,9 @@ Thread Group >> Add >> Sampler >> HTTP Request
 
 * HTTP Request Defaults
 
+```
+Thread Group >> Add >> Config Element >> HTTP Request Defaults
+Input: Webserver with Protocol and Server Name
+```
 
 http://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf
