@@ -5,6 +5,11 @@ Download: https://jmeter.apache.org/download_jmeter.cgi
 
 API Testing:
 
+API Types:
++ REST API
++ SOAP API 
+Request method: GET, POST, PUT, DELETE
+
 * Make a sample request
 
 We will add a Thread Group to a test plan on our JMeter script.
