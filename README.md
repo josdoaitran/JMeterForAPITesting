@@ -3,12 +3,14 @@ JMeterForAPITesting
 
 Download: https://jmeter.apache.org/download_jmeter.cgi
 
-API Testing:
+# API Testing:
 
 API Types:
 + REST API
 + SOAP API 
 Request method: GET, POST, PUT, DELETE
+
+## Basic JMeter
 
 * Make a sample request
 
