@@ -11,6 +11,10 @@ We will add a Thread Group to a test plan on our JMeter script.
 ```
 Test Plan >> Add >> Threads (Users) >> Thread Group
 ```
+Add a sample http request
+```
+Thread Group >> Add >> Sampler >> HTTP Request
+```
 
 *HTTP Request Defaults*
 
