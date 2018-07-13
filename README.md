@@ -11,7 +11,13 @@ HTTP protocol: `http, https`
 + Request Message
 + Response Message
 
-API Response Code: `200, 400, 401, 403, 500`
+API Response Code: 
+ ``200: Request successfull
+  400: Bad request or request was corupted
+  401: Unthorization access 
+  403: Forbiden access
+  404: Request Resource does not exist.
+  500: Internal Server error``
 
 API Types:
 + REST API
