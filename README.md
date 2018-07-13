@@ -6,7 +6,8 @@ Download: https://jmeter.apache.org/download_jmeter.cgi
 ## API Testing
 API - Application Programming Interface
 
-+ Request method: GET, POST, PUT, DELETE
++ Request method: `GET, POST, PUT, DELETE`
+HTTP protocol: `http, https`
 + Request Message
 + Response Message
 
