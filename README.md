@@ -44,6 +44,11 @@ Thread Group >> Add >> Config Element >> HTTP Header Manager
 - Post Request
 - Put Request
 
+# SOAP APIT Testing with JMeter
+
+```
+
+```
 
 # References
 
