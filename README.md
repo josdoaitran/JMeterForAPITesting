@@ -41,15 +41,26 @@ Add a sample http request
 ```
 Thread Group >> Add >> Sampler >> HTTP Request
 ``` 
+### 2. Create a test plan with a template
 
-### 2. HTTP Request Defaults
+```
+Menu: File > Templates > Select a Template >> [Done]
+```
+
+### 3. User Defined Variable
+
+```
+
+```
+
+### 4. HTTP Request Defaults
 
 ```
 Thread Group >> Add >> Config Element >> HTTP Request Defaults
 Input: Webserver with Protocol and Server Name
 ```
 
-### 3. HTTP Header Manager
+### 5. HTTP Header Manager
 
 ```
 Thread Group >> Add >> Config Element >> HTTP Header Manager
