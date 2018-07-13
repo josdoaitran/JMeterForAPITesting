@@ -68,6 +68,13 @@ Thread Group >> Add >> Config Element >> HTTP Header Manager
 
 ### 4. Popular Listener 
 
+### 5. Popular JMeter Functions
+
+ThreadNum
+```
+${__threadNum}
+```
+
 # Rest API Handling
 
 - Authorization
