@@ -58,6 +58,11 @@ Thread Group >> Add >> Config Element >> HTTP Header Manager
 ```
 
 ```
+# Realtime Scripts
+```
+
+```
+
 # References
 
 http://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf
