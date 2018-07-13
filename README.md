@@ -38,6 +38,11 @@ Thread Group >> Add >> Config Element >> HTTP Header Manager
 
 ### 4. Popular Listener 
 
+# Rest API Handling
+
+- Authorization
+- Post Request
+- Put Request
 
 
 # References
