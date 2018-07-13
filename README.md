@@ -10,6 +10,8 @@ API - Application Programming Interface
 + Request Message
 + Response Message
 
+API Response Code: `200, 400, 401, 403, 500`
+
 API Types:
 + REST API
 + SOAP API 
