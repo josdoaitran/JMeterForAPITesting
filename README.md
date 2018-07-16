@@ -126,6 +126,7 @@ sigupEmail, username
 penapi1@mailinator.com, penapi1
 penapi2@mailinator.com, penapi2
 ```
+Input `V Names (comma-delimited)`: `sigupEmail, username`
 # Handling Assertions
 ```
 
