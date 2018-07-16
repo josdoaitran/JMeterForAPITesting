@@ -119,6 +119,13 @@ ${UUID()}
 ```
 Add >> Config Elements >> CSV Data Config
 ```
+
+CSV file has contents like: 
+```
+sigupEmail, username
+penapi1@mailinator.com, penapi1
+penapi2@mailinator.com, penapi2
+```
 # Handling Assertions
 ```
 
