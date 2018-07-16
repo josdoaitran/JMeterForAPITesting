@@ -67,6 +67,9 @@ Thread Group >> Add >> Config Element >> HTTP Header Manager
 ```
 
 ### 4. Popular Listener 
+```
+
+```
 
 ### 5. Popular JMeter Functions
 
@@ -129,7 +132,10 @@ penapi2@mailinator.com, penapi2
 Input `V Names (comma-delimited)`: `sigupEmail, username`
 # Handling Assertions
 ```
-
+Add >> Asserttions >> 
++ Response Assertion
++ Json Assertion
++ ....
 ```
 # Realtime Scripts
 ```
