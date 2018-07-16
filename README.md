@@ -114,9 +114,10 @@ ${UUID()}
 
 ```
 # Using CSV Data Config
-
+- Create a csv file
+- Add CSV Data config
 ```
-
+Add >> Config Elements >> CSV Data Config
 ```
 # Handling Assertions
 ```
