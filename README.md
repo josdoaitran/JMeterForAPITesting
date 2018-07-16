@@ -78,6 +78,10 @@ SamplerName
 ```
 ${__samplerName}
 ```
+FunctionName
+```
+${__functionName}
+```
 # Rest API Handling
 
 - Authorization
