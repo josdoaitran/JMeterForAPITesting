@@ -74,7 +74,10 @@ ThreadNum
 ```
 ${__threadNum}
 ```
-
+SamplerName
+```
+${__samplerName}
+```
 # Rest API Handling
 
 - Authorization
