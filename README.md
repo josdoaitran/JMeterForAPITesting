@@ -89,6 +89,12 @@ ${result}
 ```
 ![](https://github.com/josdoaitran/JMeterForAPITesting/blob/master/Images/CounterJMeter.png)
 
+Time Function
+```
+${__time}
+```
+
+
 # Rest API Handling
 
 - Authorization
