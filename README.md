@@ -108,7 +108,7 @@ ${UUID()}
 - Post Request
 - Put Request
 
-# SOAP APIT Testing with JMeter
+# SOAP API Testing with JMeter
 
 ```
 
