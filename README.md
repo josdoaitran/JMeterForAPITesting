@@ -92,6 +92,7 @@ ${result}
 Time Function
 ```
 ${__time}
+${__time(YMD)}
 ```
 
 
