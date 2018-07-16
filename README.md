@@ -99,6 +99,7 @@ ${result}
 UUID
 ```
 Function >> Function Helper Dialog >> Choose a function: '__UUID'
+${UUID()}
 ```
 
 # Rest API Handling
