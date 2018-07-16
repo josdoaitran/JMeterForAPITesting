@@ -142,6 +142,17 @@ Add >> Asserttions >>
 
 ```
 
+# Run JMeter via command line
+Windows
+JMeter can be launched in non-GUI mode as follows:
+```
+jmeter -n -t /path/to/your/test.jmx -l /path/to/results/file.jtl
+```
+Linux / Macoxs
+```
+jmeter.sh -n -t /path/to/your/test.jmx -l /path/to/results/file.jtl
+```
+
 # ANT Tools interactive reports - JTL File for custom reports
 
 
