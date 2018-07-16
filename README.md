@@ -85,6 +85,7 @@ ${__functionName}
 Counter
 ```
 ${__counter(false,result)}
+${result}
 ```
 # Rest API Handling
 
