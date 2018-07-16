@@ -96,7 +96,10 @@ ${__time(YMD)}
 ${__time(YMDHM, result)}
 ${result}
 ```
-
+UUID
+```
+Function >> Function Helper Dialog >> Choose a function: '__UUID'
+```
 
 # Rest API Handling
 
