@@ -82,6 +82,10 @@ FunctionName
 ```
 ${__functionName}
 ```
+Counter
+```
+${__counter}
+```
 # Rest API Handling
 
 - Authorization
