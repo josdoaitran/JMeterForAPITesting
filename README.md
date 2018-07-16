@@ -87,6 +87,8 @@ Counter
 ${__counter(false,result)}
 ${result}
 ```
+![](https://github.com/josdoaitran/JMeterForAPITesting/blob/master/Images/CounterJMeter.png)
+
 # Rest API Handling
 
 - Authorization
