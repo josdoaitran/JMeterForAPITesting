@@ -93,6 +93,8 @@ Time Function
 ```
 ${__time}
 ${__time(YMD)}
+${__time(YMDHM, result)}
+${result}
 ```
 
 
